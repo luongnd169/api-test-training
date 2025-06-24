@@ -1,59 +1,52 @@
 {
-  "users": [
-    {
-      "username": "user1",
-      "fullname:" "User 1",
-      "phoneNumber": "0988776655"
-    },
-    {
-      "username": "user2",
-      "fullname:" "User 2",
-      "phoneNumber": "0987776655"
-    },
-    {
-      "username": "user3",
-      "fullname:" "User 3",
-      "phoneNumber": "0977776655"
-    }
-  ],
-  "products": [
-    {
-      "productName": "iPhone 16",
-      "productCategory": "APPLE",
-      "price": "25,000,000",
-      "currency": "VND",
-      "stock": 15
-    },
-    {
-      "productName": "iPhone 16",
-      "productCategory": "APPLE",
-      "price": "25,000,000",
-      "currency": "VND",
-      "stock": 15
-    },
-    {
-      "productName": "iPhone 16 Pro",
-      "productCategory": "APPLE",
-      "price": "30,000,000",
-      "currency": "VND",
-      "stock": 20
-    },
-    {
-      "productName": "iPhone 16 Pro Max",
-      "productCategory": "APPLE",
-      "price": "35,000,000",
-      "currency": "VND",
-      "stock": 10
-    }
-    
-  ],
-  "carts": [
-    
-  ],
-  "bills": [
-    
-  ],
-  "shippings": [
-    
-  ]
+    "users": [
+        {
+            "username": "user1",
+            "fullname": "User 1",
+            "phoneNumber": "0988776655"
+        },
+        {
+            "username": "user2",
+            "fullname": "User 2",
+            "phoneNumber": "0987776655"
+        },
+        {
+            "username": "user3",
+            "fullname": "User 3",
+            "phoneNumber": "0977776655"
+        }
+    ],
+    "products": [
+        {
+            "productName": "iPhone 16",
+            "productCategory": "APPLE",
+            "price": "25,000,000",
+            "currency": "VND",
+            "stock": 15
+        },
+        {
+            "productName": "iPhone 16",
+            "productCategory": "APPLE",
+            "price": "25,000,000",
+            "currency": "VND",
+            "stock": 15
+        },
+        {
+            "productName": "iPhone 16 Pro",
+            "productCategory": "APPLE",
+            "price": "30,000,000",
+            "currency": "VND",
+            "stock": 20
+        },
+        {
+            "productName": "iPhone 16 Pro Max",
+            "productCategory": "APPLE",
+            "price": "35,000,000",
+            "currency": "VND",
+            "stock": 10
+        }
+    ],
+    "carts": [],
+    "bills": [],
+    "shippings": []
 }
